@@ -1,5 +1,6 @@
 Fruchtige Flamingo-Torte
 
+<<<<<<< HEAD
 Zutaten
 
 Butter
@@ -7,3 +8,7 @@ Mehl
 Ei
 Früchte
 Neue Zutat
+=======
+Milch und Mehl
+Safran macht den Kuchen gel
+>>>>>>> dfd16f8cb64bb15748742de689ce5cbbf837012a
